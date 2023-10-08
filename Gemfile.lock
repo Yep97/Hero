@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    random_name_generator (2.0.1)
+
+PLATFORMS
+  x86_64-darwin-22
+
+DEPENDENCIES
+  random_name_generator
+
+BUNDLED WITH
+   2.4.19
